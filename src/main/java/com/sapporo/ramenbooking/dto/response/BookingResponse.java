@@ -3,8 +3,6 @@ package com.sapporo.ramenbooking.dto.response;
 import lombok.*;
 import java.time.LocalDateTime;
 
-import com.zaxxer.hikari.util.ConcurrentBag.IBagStateListener;
-
 import java.time.LocalDate;
 
 @Data

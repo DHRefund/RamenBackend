@@ -19,7 +19,7 @@
     <name>ramen-booking</name>
     <description>Booking System for Sapporo Ramen</description>
 
-    <!-- 🔥 ÉP Java 21 -->
+    
     <properties>
         <java.version>21</java.version>
         <maven.compiler.source>21</maven.compiler.source>
@@ -85,8 +85,6 @@
 
     <build>
         <plugins>
-
-            <!-- 🔥 QUAN TRỌNG: Ép compiler dùng 21 -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
